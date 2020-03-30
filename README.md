@@ -1,10 +1,10 @@
 # Namespace
 
-React Native (CLI based) app.
+React Native (EXPO based) app.
 
 ## Installation
 
-- [React Native CLI](https://docs.expo.io/versions/latest/get-started/installation/)
+- [EXPO](https://docs.expo.io/versions/latest/get-started/installation/)
 
 ### Configs
 Goto [GSM](https://gsmtasks.com/users/signup/).
