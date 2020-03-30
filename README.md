@@ -17,7 +17,7 @@ cd namespace && yarn
 react-native run-android
 ```
 
-### Run it on iOS (Emulator / Device)
+### Run it on iOS (Simulator / Device)
 ```bash
 react-native run-ios
 ```
